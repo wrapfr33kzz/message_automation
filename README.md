@@ -6,3 +6,5 @@ its a message sender and i use a site api to send this messages
 "https://www.twilio.com/">twilo.com</a></strong>
 
 create account and use token from there buy a number
+
+<h3>pip install twilo</h3>
